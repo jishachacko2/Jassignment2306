@@ -9,8 +9,14 @@ Initial Security()
 {
  //Sample Code
 }
+
 feature2() {
 //f2added
+}
+security patch ()
+{
+//security patch added
+
 }
 
 
